@@ -1,6 +1,8 @@
 # Kendryte K210 standalone SDK
 
+
 LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/opt/kendryte-toolchain/bin
+
 export LD_LIBRARY_PATH
 
 

@@ -1,5 +1,7 @@
 # Kendryte K210 standalone SDK
 
+The code built here is way more reliable than using ArduinoIDE version
+
 Extract the toolchain to /opt/
 
 set environment
